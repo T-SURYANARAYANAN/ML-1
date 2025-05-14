@@ -100,8 +100,8 @@ plt.ylabel("Scores")
 
 plt.show()
 ```
-Developed by: Thilak Raj . P
-RegisterNumber:  212224040353
+Developed by: SURYANARAYANAN T
+RegisterNumber:  212224040341
 
 
 
